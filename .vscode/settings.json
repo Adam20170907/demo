@@ -1,0 +1,19 @@
+{
+    "java.home": "D:\\Software\\jdk",
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.executorMap": {
+        "java": "cd $dir && javac -encoding utf-8 $fileName && java $fileNameWithoutExt"
+    },
+    "editor.fontSize": 16,
+    "java.configuration.maven.userSettings": "D:\\Software\\server\\apache-maven-3.6.1\\conf\\settings.xml",
+    "maven.terminal.useJavaHome": true,
+    "svn.path": "D:\\Software\\TortoiseSVN\\bin\\svn.exe",
+    "code-runner.defaultLanguage": "java",
+    "terminal.integrated.lineHeight": 1.5,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "maven.view": "flat"
+}

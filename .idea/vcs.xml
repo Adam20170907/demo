@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hgy-admin" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/hgy-common" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/hgy-finance" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/hgy-purapi2.0" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/hgy-purchase" vcs="svn" />
+  </component>
+</project>

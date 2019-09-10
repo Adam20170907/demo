@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/member/addKacompanyDetails.jsp" value="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/member" />
+        <entry key="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/order/addReviseChangePrice.jsp" value="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/order" />
+        <entry key="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/order/channelDetail.jsp" value="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/order" />
+        <entry key="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/order/reviseDetail.jsp" value="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/order" />
+        <entry key="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/product/add_packet.jsp" value="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/product" />
+        <entry key="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/product/packet_update.jsp" value="file://$PROJECT_DIR$/hgy-admin/src/main/webapp/WEB-INF/jsp/product" />
+        <entry key="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/bank/CompanyBankList.jsp" value="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/bank" />
+        <entry key="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/orders_voucher/addPaymentApply.jsp" value="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/orders_voucher" />
+        <entry key="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/payment/costPaymentRequestList.jsp" value="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/payment" />
+        <entry key="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/payment/costPaymentVoucherList.jsp" value="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/payment" />
+        <entry key="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/payment/paymentRequestList.jsp" value="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/payment" />
+        <entry key="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/payment/paymentVoucherDetails.jsp" value="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/payment" />
+        <entry key="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/payment/paymentVoucherList.jsp" value="file://$PROJECT_DIR$/hgy-finance/src/main/webapp/WEB-INF/jsp/payment" />
+        <entry key="file://$PROJECT_DIR$/hgy-purchase/src/main/webapp/WEB-INF/jsp/batch/batchList.jsp" value="file://$PROJECT_DIR$/hgy-purchase/src/main/webapp/WEB-INF/jsp/batch" />
+        <entry key="file://$PROJECT_DIR$/hgy-purchase/src/main/webapp/WEB-INF/jsp/data/downloadReportFrom.jsp" value="file://$PROJECT_DIR$/hgy-purchase/src/main/webapp/WEB-INF/jsp/data" />
+        <entry key="file://$PROJECT_DIR$/hgy-purchase/src/main/webapp/WEB-INF/jsp/index.jsp" value="file://$PROJECT_DIR$/hgy-purchase/src/main/webapp/WEB-INF/jsp" />
+        <entry key="file://$PROJECT_DIR$/hgy-purchase/src/main/webapp/WEB-INF/jsp/repertory/newStockList.jsp" value="file://$PROJECT_DIR$/hgy-purchase/src/main/webapp/WEB-INF/jsp/repertory" />
+      </map>
+    </option>
+  </component>
+</project>

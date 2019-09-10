@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/appiumdemo" />
+    <file type="web" url="file://$PROJECT_DIR$/hgy-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/hgy-finance" />
+    <file type="web" url="file://$PROJECT_DIR$/hgy-purapi2.0" />
+    <file type="web" url="file://$PROJECT_DIR$/hgy-purchase" />
+    <file type="web" url="file://$PROJECT_DIR$/seleuinmdemo" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/appiumdemo/pom.xml" />
+        <option value="$PROJECT_DIR$/hgy-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/hgy-common/pom.xml" />
+        <option value="$PROJECT_DIR$/hgy-finance/pom.xml" />
+        <option value="$PROJECT_DIR$/hgy-purapi2.0/pom.xml" />
+        <option value="$PROJECT_DIR$/hgy-purchase/pom.xml" />
+        <option value="$PROJECT_DIR$/seleuinmdemo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="jdk1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/.." />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$/hgy-admin">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://139.196.51.36/trunk/java/hgy_project/hgy-admin/branches" />
+                  <option value="svn://139.196.51.36/trunk/java/hgy_project/hgy-admin/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://139.196.51.36/trunk/java/hgy_project/hgy-admin/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hgy-common">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://139.196.51.36/%E4%BB%93%E5%BA%93" />
+                  <option value="svn://139.196.51.36/%E6%B0%B4%E6%9E%9C%E5%BA%97" />
+                  <option value="svn://139.196.51.36/branch" />
+                  <option value="svn://139.196.51.36/document" />
+                  <option value="svn://139.196.51.36/financial" />
+                  <option value="svn://139.196.51.36/material" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://139.196.51.36/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hgy-finance">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://139.196.51.36/trunk/java/hgy_project/hgy-finance/branches" />
+                  <option value="svn://139.196.51.36/trunk/java/hgy_project/hgy-finance/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://139.196.51.36/trunk/java/hgy_project/hgy-finance/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hgy-purapi2.0">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://139.196.51.36/trunk/java/hgy_project/hgy-purapi/branches" />
+                  <option value="svn://139.196.51.36/trunk/java/hgy_project/hgy-purapi/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://139.196.51.36/trunk/java/hgy_project/hgy-purapi/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/hgy-purchase">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="svn://139.196.51.36/trunk/java/hgy_project/hgy-purchase/branches" />
+                  <option value="svn://139.196.51.36/trunk/java/hgy_project/hgy-purchase/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="svn://139.196.51.36/trunk/java/hgy_project/hgy-purchase/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="BUILD_PROCESS_HEAP_SIZE" value="900" />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="seleuinmdemo" />
+        <module name="appiumdemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="appiumdemo" target="1.8" />
+      <module name="hgy-admin" target="1.7" />
+      <module name="hgy-common" target="1.5" />
+      <module name="hgy-finance" target="1.7" />
+      <module name="hgy-purapi" target="1.7" />
+      <module name="hgy-purchase" target="1.7" />
+      <module name="seleuinmdemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="EclipseCompilerSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding utf-8" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="appiumdemo" options="" />
+      <module name="hgy-admin" options="" />
+      <module name="hgy-common" options="" />
+      <module name="hgy-finance" options="" />
+      <module name="hgy-purapi" options="" />
+      <module name="hgy-purchase" options="" />
+      <module name="seleuinmdemo" options="" />
+    </option>
+  </component>
+</project>

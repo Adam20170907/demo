@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="appiumdemo:war">
+    <output-path>$PROJECT_DIR$/appiumdemo/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>appiumdemo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="appiumdemo.war">
+      <element id="artifact" artifact-name="appiumdemo:war exploded" />
+    </root>
+  </artifact>
+</component>

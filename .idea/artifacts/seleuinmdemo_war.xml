@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="seleuinmdemo:war">
+    <output-path>$PROJECT_DIR$/seleuinmdemo/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>seleuinmdemo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="seleuinmdemo.war">
+      <element id="artifact" artifact-name="seleuinmdemo:war exploded" />
+    </root>
+  </artifact>
+</component>

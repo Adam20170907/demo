@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4c1f24ab-a0f1-48e7-bac3-9d18603c54aa" name="测试服" url="http://139.196.184.3">
+        <fileTransfer host="139.196.184.3" port="22" rootFolder="/home/javaweb" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="76f45639-7c57-443b-9412-29e1d2849822" name="正式服" url="http://139.196.10.223">
+        <fileTransfer host="139.196.10.223" port="22" rootFolder="/home/javaweb" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
